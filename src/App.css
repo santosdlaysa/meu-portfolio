@@ -97,7 +97,7 @@ body {
   align-items: center;
   width: 50rem;
   height: 32rem;
-  margin-left: 20rem;
+  margin-left: 15rem;
   margin-top: 13rem;
 }
 
@@ -105,7 +105,7 @@ h2 {
   color: #241e4e;
   font-size: 30px;
   margin-bottom: 2rem;
-  margin-top: -2rem;
+  margin-top: 1rem;
 }
 
 
@@ -137,7 +137,7 @@ h2 {
 }
 
 #fotoperfil {
-  width: 300px;
+  width: 250px;
   margin: 1rem;
   border-radius: 100%;
   background: var(--gradient);

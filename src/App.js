@@ -1,6 +1,9 @@
 
 import './App.css';
 import Header from './components/Header';
+import Projetos from './components/Projetos';
+import Section from './components/Section';
+
 
 function App() {
   return (
@@ -25,7 +28,14 @@ function App() {
             </div>
            
           </main>
+
+          <Section />
+          <Projetos />
+
     </div>
+    
+
+    
   );
 }
 
